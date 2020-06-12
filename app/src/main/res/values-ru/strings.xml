@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Переводчик валют</string>
+    <string name="update_currency">Обновить данные</string>
+    <string name="currency_updating_failed">Не удалось обновить данные</string>
+    <string name="updated_from">Обновлено от %d %s</string>
+    <string name="ex_huf">Венгерский форинт</string>
+    <string name="ex_czk">Чешская крона</string>
+    <string name="ex_gbp">Британский фунт</string>
+    <string name="ex_ron">Румынский лей</string>
+    <string name="ex_dkk">Датская крона</string>
+    <string name="ex_php">Филиппинское песо</string>
+    <string name="ex_isk">Исландская крона</string>
+    <string name="ex_hkd">Гонконгский доллар</string>
+    <string name="ex_cad">Канадский доллар</string>
+    <string name="ex_sek">Шведская крона</string>
+    <string name="ex_idr">Индонезийская рупия</string>
+    <string name="ex_inr">Индийская рупия</string>
+    <string name="ex_brl">Бразильский реал</string>
+    <string name="ex_rub">Российский рубль</string>
+    <string name="ex_hrk">Хорватская куна</string>
+    <string name="ex_jpy">Японская иена</string>
+    <string name="ex_thb">Тайландский Бат</string>
+    <string name="ex_chf">Швейцарский франк</string>
+    <string name="ex_eur">Евро</string>
+    <string name="ex_myr">Малазийский ринггит</string>
+    <string name="ex_bgn">Болгарский лев</string>
+    <string name="ex_try">Турецкая лира</string>
+    <string name="ex_cny">Китайский юань</string>
+    <string name="ex_nok">Норвежская крона</string>
+    <string name="ex_nzd">Новозеландский доллар</string>
+    <string name="ex_zar">Южноафриканский рэнд</string>
+    <string name="ex_usd">Доллар США</string>
+    <string name="ex_mxn">Мексиканское песо</string>
+    <string name="ex_sgd">Сингапурский доллар</string>
+    <string name="ex_aud">Австралийский доллар</string>
+    <string name="ex_ils">Израильский шекель</string>
+    <string name="ex_krw">Южнокорейская вона</string>
+    <string name="ex_pln">Польский злотый</string>
+</resources>
